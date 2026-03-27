@@ -1,0 +1,29 @@
+#EXTM3U
+
+# --- DEPORTES Y F1 (FUENTES GLOBALES) ---
+#EXTINF:-1 group-title="DEPORTES", F1 TV (Mundial)
+https://f1tv.formula1.com/hls/live/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Real Madrid TV (España)
+https://streaming.realmadrid.com/pro_rmtv/es/index.m3u8
+#EXTINF:-1 group-title="DEPORTES", Teledeporte RTVE
+https://rtvelivestream-shls.akamaized.net/hls/live/2043152/tdp_main/bitrate_2.m3u8
+
+# --- CANALES ESPAÑA (ESTABLES 2026) ---
+#EXTINF:-1 group-title="ESPAÑA", La 1 (TVE)
+https://rtvelivestream-shls.akamaized.net/hls/live/2043149/la1_main/bitrate_2.m3u8
+#EXTINF:-1 group-title="ESPAÑA", Antena 3
+https://atresmedia-live.secure.footprint.net/live/antena3/index.m3u8
+#EXTINF:-1 group-title="ESPAÑA", La Sexta
+https://atresmedia-live.secure.footprint.net/live/lasexta/index.m3u8
+
+# --- CANALES PERÚ ---
+#EXTINF:-1 group-title="PERÚ", TV Perú
+https://73266e746a48.us-east-1.playback.live-video.net/api/video/v1/us-east-1.282845893322.channel.9R5mCqXvXmCj.m3u8
+#EXTINF:-1 group-title="PERÚ", Panamericana TV
+https://panamericana-atv.akamaized.net/hls/live/2034035/panamericana/master.m3u8
+
+# --- SERIES Y TELENOVELAS ---
+#EXTINF:-1 group-title="NOVELAS", Telemundo Novelas (Oficial)
+https://service-stitcher.clusters.pluto.tv/stitch/v1/m3u8/master.m3u8?channel_id=5f3ed9a7104b9c00076a084c
+#EXTINF:-1 group-title="SERIES", Rakuten TV Acción
+https://rakuten-action-3-es.samsung.wurl.tv/playlist.m3u8
